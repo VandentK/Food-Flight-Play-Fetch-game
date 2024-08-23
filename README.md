@@ -1,6 +1,9 @@
 #🥩Food Fling: Animal Frenzy
 Welcome to Food Fling: Animal Frenzy! This project is a top-down game where the goal is to throw food to hungry animals before they stampede past you. I created this game as part of a Unity tutorial, and it helped me become familiar with key Unity and programming concepts.
 
+Challenge:
+Play fetch game, where random balls falls from the sky, when the user pressed the space bar, an animal will be respawn, if the animal collided with the ball, both objects will be destroy
+
 📝 Summary
 In this project, I learned to build a dynamic and exciting game where I fend off waves of hungry animals by launching food at them. As they rush towards me, I developed quick reflexes and strategic thinking, all while gaining hands-on experience with fundamental programming and Unity techniques.
 
